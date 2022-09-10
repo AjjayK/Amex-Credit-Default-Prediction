@@ -14,7 +14,6 @@
 ---
 
 ### **Results**
-### **Conclusion**
 
 1.   LGBM (Model in other notebook) stands out to be better in terms of metrics (Score - 0.79546 and Categorical Accuracy on training data - 92.87%)
 2.   Amex Metric for Deep Decision Forest Model was better than Deep Neural Decision Tree since Forest Model is an ensemble model
